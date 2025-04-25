@@ -69,7 +69,6 @@
     "postgres": "latest",
     "@types/pg": "latest",
     "bun-types": "latest",
-    "expo-sqlite": "latest",
     "@types/sql.js": "latest",
     "@libsql/client": "latest",
     "@prisma/client": "latest",
