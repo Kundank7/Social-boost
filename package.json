@@ -85,7 +85,6 @@
     "@aws-sdk/client-rds-data": "latest",
     "@neondatabase/serverless": "latest",
     "@cloudflare/workers-types": "latest",
-    "@op-engineering/op-sqlite": "latest",
     "@auth/core": "latest",
     "nodemailer": "latest",
     "framer-motion": "latest",
